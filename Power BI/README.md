@@ -1,1 +1,1 @@
-Power BI projects
+Power BI Dashboards
